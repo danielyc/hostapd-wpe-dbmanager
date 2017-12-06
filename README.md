@@ -1,7 +1,7 @@
 # hostapd-wpe-dbmanager
 
 This is a Hostapd-wpe Database manager.
-I couldn't find anything like it so that is why i've made this
+I couldn't find anything like it so that is why i've made this.
 I've made this in about an hour so it is qick and dirty.
 Don't hasitate to create issues if you encounter any.
 
